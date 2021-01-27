@@ -5,6 +5,7 @@ Compilation:
 
 cd main
 g++ -o main main.cpp
+
 gcc -o hyp_ind hyp_ind.c
 
 Execution:
