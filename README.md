@@ -1,4 +1,4 @@
-# Multi-Objetive Cheetah Based Algorithm (MOCBA)
+# Multi-Objective Cheetah Based Algorithm (MOCBA)
 
 
 Compilation: 
